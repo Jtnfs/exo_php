@@ -16,4 +16,6 @@ foreach ($liste_a_ajouter as $nom) {
 
 fclose($f);
 
+echo "hello"
+
 ?>
